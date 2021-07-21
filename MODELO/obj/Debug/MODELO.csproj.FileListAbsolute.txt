@@ -1,0 +1,12 @@
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\MODELO\bin\Debug\MODELO.dll
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\MODELO\bin\Debug\MODELO.pdb
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\MODELO\obj\Debug\MODELO.csprojAssemblyReference.cache
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\MODELO\obj\Debug\MODELO.dll
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\MODELO\obj\Debug\MODELO.pdb
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\MODELO\bin\Debug\MODELO.dll
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\MODELO\bin\Debug\MODELO.pdb
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\MODELO\obj\Debug\MODELO.csproj.AssemblyReference.cache
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\MODELO\obj\Debug\MODELO.csproj.CoreCompileInputs.cache
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\MODELO\obj\Debug\MODELO.dll
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\MODELO\obj\Debug\MODELO.pdb

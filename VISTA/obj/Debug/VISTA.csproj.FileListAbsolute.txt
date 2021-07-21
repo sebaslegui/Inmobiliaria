@@ -1,0 +1,26 @@
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\bin\Debug\VISTA.exe
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\bin\Debug\VISTA.pdb
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\bin\Debug\MODELO.dll
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\bin\Debug\MODELO.pdb
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\obj\Debug\VISTA.csprojAssemblyReference.cache
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\obj\Debug\VISTA.exe
+C:\Users\Malcolm Gibbons\Desktop\Paradigmas\Inmobiliaria\VISTA\obj\Debug\VISTA.pdb
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\bin\Debug\VISTA.exe.config
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\bin\Debug\VISTA.exe
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\bin\Debug\VISTA.pdb
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\bin\Debug\MODELO.dll
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\bin\Debug\MODELO.pdb
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\obj\Debug\VISTA.csproj.AssemblyReference.cache
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\obj\Debug\VISTA.Form1.resources
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\obj\Debug\VISTA.Properties.Resources.resources
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\obj\Debug\VISTA.csproj.GenerateResource.cache
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\obj\Debug\VISTA.csproj.CoreCompileInputs.cache
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\obj\Debug\VISTA.csproj.CopyComplete
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\obj\Debug\VISTA.exe
+C:\Users\malco\Desktop\Inmobiliaria\Inmobiliaria\VISTA\obj\Debug\VISTA.pdb
